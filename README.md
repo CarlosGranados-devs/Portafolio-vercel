@@ -25,6 +25,7 @@ HTML5 · CSS3 · JavaScript · Git · GitHub · Vercel
 
 | Proyecto                                                                                         | Descripción                                                              | Stack                                        |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | -------------------------------------------- |
+| [Fielito — MVP](https://github.com/CarlosGranados-devs/Fielito) · [demo](https://fielito.vercel.app)  | MVP con vistas de cliente y comercio, onboarding y Supabase, instalable como PWA | Next.js, TypeScript, Supabase, Tailwind CSS |
 | [Tarify — Price Tracker](https://github.com/CarlosGranados-devs/tarify-price-tracker)            | Monitoreo de precios con scraping, historial en PostgreSQL y alertas     | Python, FastAPI, PostgreSQL, Docker          |
 | [J&L Imports — Autolote](https://github.com/CarlosGranados-devs/importadora-gsw)                | Plataforma web en clúster Docker de alta disponibilidad con Nginx + HTTPS | TypeScript, Node.js, Docker, Nginx          |
 | [Hanoi Game](https://github.com/CarlosGranados-devs/hanoi-game)                                  | Torre de Hanói con GUI en Pygame y modo consola (proyecto colaborativo)  | Python, Pygame, POO, Git Flow               |
